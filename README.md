@@ -1,4 +1,4 @@
-# Portofolio-Wayan-Nurfidi-
+
 # 🩺 Diabetes Prediction System using Naïve Bayes and Random Forest
 
 This project is part of my undergraduate thesis at Universitas Bandar Lampung, focused on building a machine learning system to diagnose diabetes using **Naïve Bayes** and **Random Forest** algorithms. The system was developed using Python and Jupyter Notebook, and evaluated using a Kaggle dataset.
@@ -65,3 +65,31 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
    ```bash
    git clone https://github.com/your-username/diabetes-prediction.git
    cd diabetes-prediction
+   ```
+
+2. Install required libraries:
+   ```bash
+   pip install pandas matplotlib seaborn scikit-learn
+   ```
+
+3. Run the notebook:
+   ```bash
+   jupyter notebook diabetes_prediction.ipynb
+   ```
+
+Or you can open directly in **Google Colab**:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/diabetes-prediction/blob/main/diabetes_prediction.ipynb)
+
+---
+
+## 👨‍🎓 About Me
+
+I am a graduate of Informatics Engineering at Universitas Bandar Lampung, passionate about data science and artificial intelligence. This project represents my first step into real-world machine learning applications, and I am currently seeking opportunities to work and grow in the data analytics or data science field.
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email!
+
+---
+
+## ⭐ Star This Repository
+
+If you find this project helpful, please give it a ⭐ and share it with others. It helps a lot!
