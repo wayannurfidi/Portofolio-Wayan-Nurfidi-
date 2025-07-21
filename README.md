@@ -86,7 +86,7 @@ Or you can open directly in **Google Colab**:
 
 I am a graduate of Informatics Engineering at Universitas Bandar Lampung, passionate about data science and artificial intelligence. This project represents my first step into real-world machine learning applications, and I am currently seeking opportunities to work and grow in the data analytics or data science field.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email!
+📫 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/wayan-nurfidi-9a410034b?trk=contact-info) or reach out via email!
 
 ---
 
